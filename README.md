@@ -1,6 +1,6 @@
 # LiDAR-Based-Navigation-with-TurtleBot3
 This lab consists of two parts: the robot first auto-navigate from P1 and visit P2,P3,and P4 in turn, and the robot park in front of the ArUco marker upon returning to P1. 
-## Step 1: robot set up
+## Step 1: SBC set up
 roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 roslaunch hls_lfcd_lds_driver hlds_laser.launch
